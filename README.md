@@ -59,12 +59,12 @@ Customize the gallery as needed, including layout, image data, and styling.
 ## Customization
 You can customize the React Image Gallery to suit your specific needs by modifying the code and styles. Here are a few things you can do:
 
-# Change the gallery layout.
+ **Change the gallery layout.**
 1. Add additional metadata to the images.
 2. Implement server-side image loading for larger collections.
 
 ## Contributing
-  We welcome contributions to improve and enhance this React Image Gallery project. If you'd like to contribute, please follow these steps:
+   We welcome contributions to improve and enhance this React Image Gallery project. If you'd like to contribute, please follow these steps:
 1. Create a new branch for your feature or improvement.
 2. Make your changes and ensure the code is well-documented.
 3. Test your changes thoroughly.
@@ -72,6 +72,10 @@ You can customize the React Image Gallery to suit your specific needs by modifyi
 
 
  **Thank you for using the React Image Gallery! If you have any questions, encounter issues, or want to contribute, feel free to get in touch with us.**
+[INSTAGRAM](https://www.instagram.com/codewithakash)
+[TWITTER](https://twitter.com/akashrana03)
+[LINKEDIN](https://www.linkedin.com/in/akashrana18/)
+
 
 
 
