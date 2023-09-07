@@ -73,7 +73,7 @@ You can customize the React Image Gallery to suit your specific needs by modifyi
 
  **Thank you for using the React Image Gallery! If you have any questions, encounter issues, or want to contribute, feel free to get in touch with us.**
 1. **[INSTAGRAM](https://www.instagram.com/codewithakash)**
-2. **[TWITTER](https://twitter.com/akashrana03)**
+2. **[TWITTER](https://twitter.com/Akash08_18)**
 3. **[LINKEDIN](https://www.linkedin.com/in/akashrana18/)**
 
 
